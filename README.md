@@ -1,6 +1,7 @@
 this is my personal project.
+
 Im making: 
 
-based on: 
+Based on: 
 
-and the instructions that i followed to create this project were: 
+The instructions that i followed to create this project were: 
