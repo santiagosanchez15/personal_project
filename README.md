@@ -42,4 +42,10 @@ A Python ETL pipeline that ingests raw API data, cleans and flattens it, loads i
 - Representatoin of sql data
 
 **Documents used**
+- [sqlite3 documentation](https://docs.python.org/3/library/sqlite3.html)
+- [Geeksforgeeks creation of pipeline with pands](https://www.geeksforgeeks.org/python/create-a-pipeline-in-pandas/)
+- [Opendata vancouver restaurants food vendors](https://opendata.vancouver.ca/explore/dataset/food-vendors/api/)
+- [Claude AI](https://claude.ai/new)
+- [Pandas Documentation ](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
+- Different bootdev courses just for general information [bootdev](https://www.boot.dev/dashboard)
 
