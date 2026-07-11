@@ -22,7 +22,7 @@ Therefore i have developed a series of steps that I should follow before I do an
 
 6. OPTIONAL but must likely will use. sqlviewer to be able to visualize in a clear way the data
 
-Based on: 
+**Based on:**
 
 This project is based on a brainstorm that I had when doing some requests to claude.
 
@@ -32,3 +32,14 @@ Among the different requirements that the AI retrieved were the creation of pipe
 
 **Project:**
 A Python ETL pipeline that ingests raw API data, cleans and flattens it, loads it into SQLite, and answers analytical questions via SQL queries.
+
+**Objectives:**
+
+- Learn python pipelines with different guidelines
+- Learn pandas data extract and pass the data to SQL
+- Wrtie clear SQL queries to be able to answer ral questions
+- Use of the command line with SQL
+- Representatoin of sql data
+
+**Documents used**
+
