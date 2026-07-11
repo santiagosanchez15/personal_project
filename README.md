@@ -1,17 +1,17 @@
-this is my personal project.
+Pipeline personal project.
 
-Im making: 
+**Project description:**
 A pipeline to convert and clean the dataset from the vancouver open data specifically the open-vendors, food and restaurant. 
 my goal is to convert the json into a more readable data, using SQL.
 
-Therefore i have developed a series of steps that I should follow before I do any coding, since it is the best way I can orginize my project.
+Therefore I developed a series of steps that I should follow before I do any coding, since it is the best way I can orginize my project.
 
 # Steps to follow: 
 
 1. Pull the records with the vancouver api [Vancouver opend data](https://opendata.vancouver.ca/explore/dataset/food-vendors/api/):
     I will follow the portals API extract the data and clean the JSON
 
-2. The next thing that I will do is to flatten the data with pandas.:
+2. The next thing that I will do is to flatten the data with pandas:
     I will use the pandas library so it can help me organize and keep all the data clean
 
 3. Load the data cleaned with pandas into sqlite3
@@ -37,9 +37,9 @@ A Python ETL pipeline that ingests raw API data, cleans and flattens it, loads i
 
 - Learn python pipelines with different guidelines
 - Learn pandas data extract and pass the data to SQL
-- Wrtie clear SQL queries to be able to answer ral questions
+- Write clear SQL queries to be able to answer real questions
 - Use of the command line with SQL
-- Representatoin of sql data
+- Representation of sql data
 
 **Documents used**
 - [sqlite3 documentation](https://docs.python.org/3/library/sqlite3.html)
@@ -47,5 +47,5 @@ A Python ETL pipeline that ingests raw API data, cleans and flattens it, loads i
 - [Opendata vancouver restaurants food vendors](https://opendata.vancouver.ca/explore/dataset/food-vendors/api/)
 - [Claude AI](https://claude.ai/new)
 - [Pandas Documentation ](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
-- Different bootdev courses just for general information [bootdev](https://www.boot.dev/dashboard)
+- Different bootdev courses just for general information [bootdev](https://www.boot.dev/dashboard) no sponsor but I enjoyed the course
 
