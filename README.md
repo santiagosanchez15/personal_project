@@ -13,9 +13,11 @@ Therefore I developed a series of steps that I should follow before I do any cod
 
 2. The next thing that I will do is to flatten the data with pandas:
     I will use the pandas library so it can help me organize and keep all the data clean
-    ''' 
+    ```
     import pandas as pd
-    '''
+    ```
+    
+    
 
 
 3. Load the data cleaned with pandas into sqlite3
